@@ -12,7 +12,7 @@ Hi! I am a 5th year MS student studying Computer Science at UC Berkeley, advised
 
 My research focus is at the intersection of **programming languages** and **human-computer interaction**. My current work focuses on improving the usability of program synthesizers. I am also interested in applications of PL + HCI to data science and computer science education!
 
-I am part of the [PLAIT Lab](https://plait-lab.org/) at [UC Berkeley EECS](https://eecs.berkeley.edu/). I have also been involved with the [ACE Lab](https://acelab.berkeley.edu/) and [Teaming by Design](https://www.teamingxdesign.com/) at Berkeley, researching assignment extensions in computer science courses and building software for data-driven feedback in team-based design courses, respectively.
+I am part of the [PLAIT Lab](https://plait-lab.org/) at [UC Berkeley EECS](https://eecs.berkeley.edu/). I have also been involved with the [ACE Lab](https://acelab.berkeley.edu/) and [Teaming by Design](https://www.teamingxdesign.com/) at Berkeley, researching assignment extensions in computer science courses and building software for data-driven student feedback in team-based design courses, respectively.
 
 ## Publications
 <sup>\* = equal contribution</sup>
