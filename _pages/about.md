@@ -18,7 +18,7 @@ Publications
 =====
 <sup>\* = equal contribution</sup>
 
-[__Supporting Mastery Learning with Flexible Extensions__](../files/flextensions-policy-poster.pdf) \
+__Supporting Mastery Learning with Flexible Extensions__ [pdf](../files/flextensions-policy-poster.pdf) \
 Yuerou Tang\*, <ins>Jacob Yim</ins>\*, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan and Narges Norouzi \
 Poster to appear at SIGCSE TS 2024.
 
@@ -26,18 +26,26 @@ __Automated Support for Flexible Extensions__ \
 Jordan Schwartz, Madison Bohannan, <ins>Jacob Yim</ins>, Yuerou Tang, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan and Narges Norouzi \
 Poster to appear at SIGCSE TS 2024.
 
-[__Searching for Incidental Specifications__](../files/incidental-specifications.pdf) \
+__Searching for Incidental Specifications__ [pdf](../files/incidental-specifications.pdf) \
 Jeremy Ferguson\*, Kevin Ye\*, Jacob Yim\*, and Justin Lubin \
 PLATEAU 2023
 
 Teaching
 =====
-[Data 100: Principles and Techniques of Data Science](https://ds100.org) \
+[__Data 100: Principles and Techniques of Data Science__](https://ds100.org) \
 teaching assistant: Summer 2022, Fall 2022, Spring 2023 \
 course tutor: Fall 2021, Spring 2022
 
+Industry Experience
+=====
+__Amazon Web Services__
+Software Development Engineer Intern: Summer 2022, Summer 2023
+
+__Nirmata__
+Software Engineering Intern: Summer 2021
+
 Other
 =====
-Since 2020, I have taught science lessons at elementary and middle schools with [BEAM](https://beam.berkeley.edu), a club on campus. As part of the Curriculum committee, I write lessons for our students.
+I teach science lessons at elementary and middle schools with [Berkeley Engineers and Mentors](https://beam.berkeley.edu). As part of the Curriculum committee, I write lessons for our students.
 
 For fun, I run [Smash at Berkeley](https://smash.berkeley.edu), a club organizing tournaments for the Super Smash Bros. series of video games.
