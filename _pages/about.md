@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a 5th year MS student studying Computer Science at UC Berkeley, advised by [Sarah E. Chasins](https://schasins.com/).
 
-My research focus is at the intersection of **programming languages** and **human-computer interaction**. My current work focuses on improving the usability of program synthesizers. I am also interested in applications of PL + HCI to data science and computer science education!
+My research focus is at the intersection of **programming languages** and **human-computer interaction**. My current work focuses on improving the usability of program synthesizers. I am also interested in applications of PL + HCI techniques to data science and computer science education!
 
 I am part of the [PLAIT Lab](https://plait-lab.org/) at [UC Berkeley EECS](https://eecs.berkeley.edu/). I have also been involved with the [ACE Lab](https://acelab.berkeley.edu/) and [Teaming by Design](https://www.teamingxdesign.com/) at Berkeley, researching assignment extensions in computer science courses and building software for data-driven student feedback in team-based design courses, respectively.
 
@@ -26,7 +26,7 @@ Jordan Schwartz, Madison Bohannan, <ins>Jacob Yim</ins>, Yuerou Tang, Dana Bened
 *Poster to appear at SIGCSE TS 2024*
 
 __Searching for Incidental Specifications__ [[pdf](../files/incidental-specifications.pdf)] \
-Jeremy Ferguson\*, Kevin Ye\*, Jacob Yim\*, and Justin Lubin \
+Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Justin Lubin \
 *PLATEAU 2023*
 
 ## Teaching
@@ -44,4 +44,4 @@ Software Engineering Intern: Summer 2021
 ## Other
 I teach science lessons at elementary and middle schools with [Berkeley Engineers and Mentors](https://beam.berkeley.edu). As part of the Curriculum committee, I write lessons for our students.
 
-For fun, I run [Smash at Berkeley](https://smash.berkeley.edu), a club organizing tournaments for the Super Smash Bros. series of video games.
+For fun, I also run [Smash at Berkeley](https://smash.berkeley.edu), a club organizing tournaments for the Super Smash Bros. series of games.
