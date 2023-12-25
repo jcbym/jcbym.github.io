@@ -19,15 +19,15 @@ I am part of the [PLAIT Lab](https://plait-lab.org/) at [UC Berkeley EECS](https
 
 __Supporting Mastery Learning with Flexible Extensions__ [[pdf](../files/flextensions-policy-poster.pdf)] \
 Yuerou Tang\*, <ins>Jacob Yim</ins>\*, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan and Narges Norouzi \
-Poster to appear at SIGCSE TS 2024.
+*Poster to appear at SIGCSE TS 2024*
 
 __Automated Support for Flexible Extensions__ \
 Jordan Schwartz, Madison Bohannan, <ins>Jacob Yim</ins>, Yuerou Tang, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan and Narges Norouzi \
-Poster to appear at SIGCSE TS 2024.
+*Poster to appear at SIGCSE TS 2024*
 
 __Searching for Incidental Specifications__ [[pdf](../files/incidental-specifications.pdf)] \
 Jeremy Ferguson\*, Kevin Ye\*, Jacob Yim\*, and Justin Lubin \
-PLATEAU 2023
+*PLATEAU 2023*
 
 ## Teaching
 [__Data 100: Principles and Techniques of Data Science__](https://ds100.org) \
