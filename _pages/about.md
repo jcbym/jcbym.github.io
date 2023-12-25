@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a 5th year MS student studying Computer Science at UC Berkeley, advised by [Sarah E. Chasins](https://schasins.com/). My research focus is at the intersection of programming languages and human-computer interaction, and my current work focuses on improving the usability of program synthesizers. I am also interested in applications of PL + HCI to data science and computer science education!
+Hi! I am a 5th year MS student studying Computer Science at UC Berkeley, advised by [Sarah E. Chasins](https://schasins.com/).
+
+My research focus is at the intersection of **programming languages** and **human-computer interaction**. My current work focuses on improving the usability of program synthesizers. I am also interested in applications of PL + HCI to data science and computer science education!
 
 I am part of the [PLAIT Lab](https://plait-lab.org/) at [UC Berkeley EECS](https://eecs.berkeley.edu/). I have also been involved with the [ACE Lab](https://acelab.berkeley.edu/) and [Teaming by Design](https://www.teamingxdesign.com/) at Berkeley, researching assignment extensions in computer science courses and building software for data-driven feedback in team-based design courses, respectively.
 
@@ -16,7 +18,7 @@ Publications
 =====
 <sup>\* = equal contribution</sup>
 
-__Supporting Mastery Learning with Flexible Extensions__ \
+[__Supporting Mastery Learning with Flexible Extensions__](../files/flextensions-policy-poster.pdf) \
 Yuerou Tang\*, <ins>Jacob Yim</ins>\*, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan and Narges Norouzi \
 Poster to appear at SIGCSE TS 2024.
 
@@ -24,7 +26,7 @@ __Automated Support for Flexible Extensions__ \
 Jordan Schwartz, Madison Bohannan, <ins>Jacob Yim</ins>, Yuerou Tang, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan and Narges Norouzi \
 Poster to appear at SIGCSE TS 2024.
 
-__Searching for Incidental Specifications__ \
+[__Searching for Incidental Specifications__](../files/incidental-specifications.pdf) \
 Jeremy Ferguson\*, Kevin Ye\*, Jacob Yim\*, and Justin Lubin \
 PLATEAU 2023
 
