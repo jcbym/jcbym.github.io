@@ -14,6 +14,25 @@ My research focus is at the intersection of **programming languages** and **huma
 
 I am part of the [PLAIT Lab](https://plait-lab.org/) at [UC Berkeley EECS](https://eecs.berkeley.edu/). I have also been involved with the [ACE Lab](https://acelab.berkeley.edu/) and [Teaming by Design](https://www.teamingxdesign.com/) at Berkeley, researching assignment extensions in computer science courses and building software for data-driven student feedback in team-based design courses, respectively.
 
+## Research Projects
+
+### Current
+__Synthesis Interfaces__ [[EPIC Advance poster](../files/epic-poster-sp23.pdf)] \
+How can we design new interfaces for program synthesis that enable users to understand generated programs in unfamiliar languages? This builds off of the [NumPy Program Synthesis](#numpy) project, in collaboration with Kevin Ye, [Justin Lubin](https://jlubin.net), and [Prof. Sarah E. Chasins](https://schasins.com).
+
+__SEPO__ [[final project poster](../files/sepo-poster.pdf)] [[final project report](../files/sepo-paper.pdf)] [[github](https://github.com/skberkeley/sepo)] \
+A symbolic execution engine for RISC-V assembly, used to output traces of CPU states and discover optimizing rewrites. Class project for CS 264 at Berkeley, in collaboration with [Sora Kanosue](https://skanosue.com).
+
+__Flexible Extensions__ [[github](https://github.com/cs161-staff/extensions)] [[more info](https://acelab.berkeley.edu/projects/flextensions/)] \
+A system for requesting and granting extensions on programming assignments, aiming to reduce workloads for course staff in large computer science courses and improve student quality of life.
+
+__Teaming by Design__ [[github](https://github.com/teamingbydesign/txd-pipeline)] [[website](https://www.teamingxdesign.com/)] \
+How can we improve experiences for students in courses with team-based projects? We designed a pipeline for processing data from surveys of team members and data dashboards for giving students actionable, data-driven feedback.
+
+### Past
+ __NumPy Program Synthesis__ <a name="numpy"></a> \
+ A program synthesizer that generates NumPy from Python for loops, intended to allow a broader audience of programmers to write higher-performance code. Project in collaboration with Jeremy Ferguson, Kevin Ye, [Justin Lubin](https://jlubin.net), and [Prof. Sarah E. Chasins](https://schasins.com).
+
 ## Publications
 <sup>\* = equal contribution</sup>
 
