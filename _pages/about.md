@@ -28,7 +28,7 @@ __SEPO__ [[final project poster](../files/sepo-poster.pdf)] [[final project repo
 A symbolic execution engine for RISC-V assembly, used to output traces of CPU states and discover optimizing rewrites. Class project for CS 264 at Berkeley, in collaboration with [Sora Kanosue](https://skanosue.com).
 
 __NumPy Program Synthesis__ <a name="numpy"></a> \
-A program synthesizer that generates NumPy from Python for loops, intended to allow a broader audience of programmers to write higher-performance code. Project in collaboration with Jeremy Ferguson, Kevin Ye, [Justin Lubin](https://jlubin.net), and [Prof. Sarah E. Chasins](https://schasins.com).
+A program synthesizer that generates NumPy from Python for loops, intended to allow a broader audience of programmers to write higher-performance code. Project in collaboration with [Justin Lubin](https://jlubin.net), Jeremy Ferguson, Kevin Ye, and [Prof. Sarah E. Chasins](https://schasins.com).
 
 ## Publications
 <sup>\* = equal contribution</sup>
