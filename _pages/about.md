@@ -21,7 +21,7 @@ __Flexible Extensions__ [[github](https://github.com/cs161-staff/extensions)] [[
 A system for requesting and granting extensions on programming assignments, aiming to reduce workloads for course staff in large computer science courses and improve student quality of life.
 
 __Teaming by Design__ [[github](https://github.com/teamingbydesign/txd-pipeline)] [[website](https://www.teamingxdesign.com/)] \
-How can we improve experiences for students in courses with team-based projects? We designed a pipeline for processing data from surveys of team members and data dashboards for giving students actionable, data-driven feedback.
+How can we improve experiences for students in courses with team-based projects? We designed a data pipeline for processing surveys of team members and created visualizations for giving students actionable, data-driven feedback.
 
 ## Past Projects
 __SEPO__ [[final project poster](../files/sepo-poster.pdf)] [[final project report](../files/sepo-paper.pdf)] [[github](https://github.com/skberkeley/sepo)] \
