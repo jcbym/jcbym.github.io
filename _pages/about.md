@@ -33,12 +33,16 @@ A program synthesizer that generates NumPy from Python for loops, intended to al
 ## Publications
 <sup>\* = equal contribution</sup>
 
+__Refactoring Programs via Component-Based Synthesis Using Canonicalization-Based Equivalence Checking__ \
+Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E. Chasins
+*Paper to appear at PLDI 2024*
+
 __Supporting Mastery Learning with Flexible Extensions__ [[pdf](../files/flextensions-policy-poster.pdf)] \
-Yuerou Tang\*, <ins>Jacob Yim</ins>\*, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan and Narges Norouzi \
+Yuerou Tang\*, <ins>Jacob Yim</ins>\*, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
 *Poster to appear at SIGCSE TS 2024*
 
 __Automated Support for Flexible Extensions__ \
-Jordan Schwartz, Madison Bohannan, <ins>Jacob Yim</ins>, Yuerou Tang, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan and Narges Norouzi \
+Jordan Schwartz, Madison Bohannan, <ins>Jacob Yim</ins>, Yuerou Tang, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
 *Poster to appear at SIGCSE TS 2024*
 
 __Searching for Incidental Specifications__ [[pdf](../files/incidental-specifications.pdf)] \
