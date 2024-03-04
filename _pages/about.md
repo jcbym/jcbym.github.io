@@ -34,7 +34,7 @@ A program synthesizer that generates NumPy from Python for loops, intended to al
 <sup>\* = equal contribution</sup>
 
 __Refactoring Programs via Component-Based Synthesis Using Canonicalization-Based Equivalence Checking__ \
-Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E. Chasins
+Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E. Chasins \
 *Paper to appear at PLDI 2024*
 
 __Supporting Mastery Learning with Flexible Extensions__ [[pdf](../files/flextensions-policy-poster.pdf)] \
