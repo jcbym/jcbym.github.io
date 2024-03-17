@@ -37,11 +37,11 @@ __Equivalence by Canonicalization for Synthesis-Backed Refactoring__ \
 Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E. Chasins \
 *Paper to appear at PLDI 2024*
 
-__Supporting Mastery Learning with Flexible Extensions__ [[doi](https://doi.org/10.1145/3626253.3635628)] [[pdf](../files/mastery-learning-flextensions.pdf)] \
+__Supporting Mastery Learning with Flexible Extensions__ [[doi](https://doi.org/10.1145/3626253.3635615)] [[pdf](../files/mastery-learning-flextensions.pdf)] \
 Yuerou Tang\*, <ins>Jacob Yim</ins>\*, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
 *Poster to appear at SIGCSE TS 2024*
 
-__Automated Support for Flexible Extensions__ [[doi](https://doi.org/10.1145/3626253.3635628)] [[pdf](../files/mastery-learning-flextensions.pdf)] \
+__Automated Support for Flexible Extensions__ [[doi](https://doi.org/10.1145/3626253.3635628)] [[pdf](../files/automated-support-flextensions.pdf)] \
 Jordan Schwartz, Madison Bohannan, <ins>Jacob Yim</ins>, Yuerou Tang, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
 *Poster to appear at SIGCSE TS 2024*
 
