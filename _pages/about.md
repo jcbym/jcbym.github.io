@@ -33,19 +33,19 @@ A program synthesizer that generates NumPy from Python for loops, intended to al
 ## Publications
 <sup>\* = equal contribution</sup>
 
-__Refactoring Programs via Component-Based Synthesis Using Canonicalization-Based Equivalence Checking__ \
+__Equivalence by Canonicalization for Synthesis-Backed Refactoring__ \
 Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E. Chasins \
 *Paper to appear at PLDI 2024*
 
-__Supporting Mastery Learning with Flexible Extensions__ [[pdf](../files/flextensions-policy-poster.pdf)] \
+__Supporting Mastery Learning with Flexible Extensions__ [[doi](https://doi.org/10.1145/3626253.3635628)] [[pdf](../files/mastery-learning-flextensions.pdf)] \
 Yuerou Tang\*, <ins>Jacob Yim</ins>\*, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
 *Poster to appear at SIGCSE TS 2024*
 
-__Automated Support for Flexible Extensions__ \
+__Automated Support for Flexible Extensions__ [[doi](https://doi.org/10.1145/3626253.3635628)] [[pdf](../files/mastery-learning-flextensions.pdf)] \
 Jordan Schwartz, Madison Bohannan, <ins>Jacob Yim</ins>, Yuerou Tang, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
 *Poster to appear at SIGCSE TS 2024*
 
-__Searching for Incidental Specifications__ [[pdf](../files/incidental-specifications.pdf)] \
+__Searching for Incidental Specifications__ [[doi](https://doi.org/10.1184/R1/22277332.v1)] [[pdf](../files/incidental-specifications.pdf)] \
 Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Justin Lubin \
 *PLATEAU 2023*
 
