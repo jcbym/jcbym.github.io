@@ -49,6 +49,28 @@ A symbolic execution engine for RISC-V assembly, used to output traces of CPU st
 __NumPy Program Synthesis__ <a name="numpy"></a> \
 A program synthesizer that generates NumPy from Python for loops, intended to allow a broader audience of programmers to write higher-performance code. Project in collaboration with [Justin Lubin](https://jlubin.net), Jeremy Ferguson, Kevin Ye, and [Prof. Sarah E. Chasins](https://schasins.com).
 
+<<<<<<< HEAD
+=======
+## Publications
+<sup>\* = equal contribution</sup>
+
+__Equivalence by Canonicalization for Synthesis-Backed Refactoring__ \
+Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E. Chasins \
+*Paper to appear at PLDI 2024*
+
+__Supporting Mastery Learning with Flexible Extensions__ [[doi](https://doi.org/10.1145/3626253.3635615)] [[pdf](../files/mastery-learning-flextensions.pdf)] \
+Yuerou Tang\*, <ins>Jacob Yim</ins>\*, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
+*Poster to appear at SIGCSE TS 2024*
+
+__Automated Support for Flexible Extensions__ [[doi](https://doi.org/10.1145/3626253.3635628)] [[pdf](../files/automated-support-flextensions.pdf)] \
+Jordan Schwartz, Madison Bohannan, <ins>Jacob Yim</ins>, Yuerou Tang, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
+*Poster to appear at SIGCSE TS 2024*
+
+__Searching for Incidental Specifications__ [[doi](https://doi.org/10.1184/R1/22277332.v1)] [[pdf](../files/incidental-specifications.pdf)] \
+Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Justin Lubin \
+*PLATEAU 2023*
+
+>>>>>>> 198469d4c8388dcbcac6035ee8a031eb3c45badd
 ## Teaching
 [__Data 100: Principles and Techniques of Data Science__](https://ds100.org) \
 teaching assistant: Summer 2024, Spring 2023, Fall 2022, Summer 2022 \
