@@ -36,7 +36,7 @@ __Searching for Incidental Specifications__ [[doi](https://doi.org/10.1184/R1/22
 Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Justin Lubin \
 *PLATEAU 2023*
 
-__Reprogramming of DNA methylation at NEUROD2-bound sequences during cortical neuron differentiation__ \
+__Reprogramming of DNA methylation at NEUROD2-bound sequences during cortical neuron differentiation__ [[doi](https://doi.org/10.1126/sciadv.aax0080)] [[pdf](https://www.science.org/doi/pdf/10.1126/sciadv.aax0080)] \
 Maria A Hahn, Seung-Gi Jin, Arthur X Li, Jiancheng Liu, Zhijun Huang, Xiwei Wu, Byung-Wook Kim, Jennifer Johnson, Adrienne-Denise V Bilbao, Shu Tao, <ins>Jacob A Yim</ins>, Yuman Fong, Sandra Goebbels, Markus H Schwab, Qiang Lu, and Gerd P Pfeifer \
 *Science Advances*
 
