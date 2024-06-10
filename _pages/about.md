@@ -16,8 +16,12 @@ I am part of the [PLAIT Lab](https://plait-lab.org/) at [UC Berkeley EECS](https
 ## Publications
 <sup>\* = equal contribution</sup>
 
+__Theme Work on Teamwork: Mapping Student Teaming Experiences in Design Projects__ \
+Sara Beckman, Krina Patel, Qiuquan Gu, Shang Zhu, Alexander Cui, and <ins>Jacob Yim</ins> \
+*to appear at FIE 2024*
+
 __Equivalence by Canonicalization for Synthesis-Backed Refactoring__ [[doi](https://doi.org/10.1145/3656453)] [[preprint](https://jlubin.net/assets/pldi24-preprint.pdf)] \
-Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E. Chasins \
+Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E Chasins \
 *PLDI 2024*
 
 __Supporting Mastery Learning with Flexible Extensions__ [[doi](https://doi.org/10.1145/3626253.3635615)] [[pdf](../files/mastery-learning-flextensions.pdf)] \
@@ -31,6 +35,10 @@ Jordan Schwartz, Madison Bohannan, <ins>Jacob Yim</ins>, Yuerou Tang, Dana Bened
 __Searching for Incidental Specifications__ [[doi](https://doi.org/10.1184/R1/22277332.v1)] [[pdf](../files/incidental-specifications.pdf)] \
 Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Justin Lubin \
 *PLATEAU 2023*
+
+__Reprogramming of DNA methylation at NEUROD2-bound sequences during cortical neuron differentiation__ \
+Maria A Hahn, Seung-Gi Jin, Arthur X Li, Jiancheng Liu, Zhijun Huang, Xiwei Wu, Byung-Wook Kim, Jennifer Johnson, Adrienne-Denise V Bilbao, Shu Tao, <ins>Jacob A Yim</ins>, Yuman Fong, Sandra Goebbels, Markus H Schwab, Qiang Lu, and Gerd P Pfeifer \
+*Science Advances*
 
 ## Current Projects
 __Synthesis Interfaces__ [[EPIC Advance poster](../files/epic-poster-sp23.pdf)] \
