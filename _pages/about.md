@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a 5th year MS student in Computer Science at UC Berkeley, advised by [Sarah E. Chasins](https://schasins.com/). This fall, I will be starting a PhD at UC San Diego in the [ProgSys Group](https://cseweb.ucsd.edu/groups/progsys/)!
+Hi! I am a 1st year PhD student in Computer Science at UC San Diego in the [ProgSys Group](https://cseweb.ucsd.edu/groups/progsys/), advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). Previously, I did my undergrad at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/).  I owe a lot to these amazing mentors (both past and present)!
 
-My primary research focus is at the intersection of **programming languages** and **human-computer interaction**. My current work explores interfaces for improving code comprehension using program synthesis. I am excited by research that makes programming easier for novice and nontraditional programmers.
-
-I am part of the [PLAIT Lab](https://plait-lab.org/) at [UC Berkeley EECS](https://eecs.berkeley.edu/). I have also been involved with the [ACE Lab](https://acelab.berkeley.edu/) and [Teaming by Design](https://www.teamingxdesign.com/) at Berkeley, researching assignment extensions in computer science courses and building software for data-driven student feedback in team-based design courses, respectively.
+My primary research focus is at the intersection of **human-computer interaction** and **programming languages**. I am interested in building new programming tools that make it easier for users with nontechnical backgrounds to write and understand code.
 
 ## Publications
 <sup>\* = equal contribution</sup>
@@ -20,7 +18,7 @@ __Theme Work on Teamwork: Mapping Student Teaming Experiences in Design Projects
 Sara Beckman, Krina Patel, Qiuquan Gu, Shang Zhu, Alexander Cui, and <ins>Jacob Yim</ins> \
 *to appear at FIE 2024*
 
-__Equivalence by Canonicalization for Synthesis-Backed Refactoring__ [[doi](https://doi.org/10.1145/3656453)] [[preprint](https://jlubin.net/assets/pldi24-preprint.pdf)] \
+__Equivalence by Canonicalization for Synthesis-Backed Refactoring__ [[doi](https://doi.org/10.1145/3656453)] \
 Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E Chasins \
 *PLDI 2024*
 
@@ -52,8 +50,3 @@ Software Development Engineer Intern: Summer 2023, Summer 2022
 
 __Nirmata__ \
 Software Engineering Intern: Summer 2021
-
-## Other
-I teach science lessons at elementary and middle schools with [Berkeley Engineers and Mentors](https://beam.berkeley.edu). As part of the Curriculum committee, I write lessons for our students.
-
-For fun, I also run [Smash at Berkeley](https://smash.berkeley.edu), a club organizing tournaments for the Super Smash Bros. series of games.
