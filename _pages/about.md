@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a 1st year PhD student in Computer Science at UC San Diego in the [ProgSys Group](https://cseweb.ucsd.edu/groups/progsys/), advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). Previously, I did my undergrad at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/).  I owe a lot to these amazing mentors (both past and present)!
+Hi! I am a 1st year PhD student in Computer Science at UC San Diego in the [ProgSys Group](https://cseweb.ucsd.edu/groups/progsys/), advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). Previously, I did my undergrad at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/).  I owe a lot to these amazing mentors, both past and present!
 
-My primary research focus is at the intersection of **human-computer interaction** and **programming languages**. I am interested in building new programming tools that make it easier for users with nontechnical backgrounds to write and understand code.
+My primary research focus is at the intersection of **human-computer interaction** and **programming languages**. I'm also interested in other things, including data science, cognitive science, CS education, and learning sciences. I want to build new programming tools that make it easier for users from nontechnical backgrounds to write and understand code. Currently, I'm excited about exploring new ways to merge spreadsheets and code as mediums for interacting with data.
 
 ## Publications
 <sup>\* = equal contribution</sup>
@@ -19,7 +19,7 @@ Sara Beckman, Krina Patel, Qiuquan Gu, Shang Zhu, Alexander Cui, and <ins>Jacob 
 *to appear at FIE 2024*
 
 __Equivalence by Canonicalization for Synthesis-Backed Refactoring__ [[doi](https://doi.org/10.1145/3656453)] \
-Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E Chasins \
+Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E. Chasins \
 *PLDI 2024*
 
 __Supporting Mastery Learning with Flexible Extensions__ [[doi](https://doi.org/10.1145/3626253.3635615)] [[pdf](../files/mastery-learning-flextensions.pdf)] \

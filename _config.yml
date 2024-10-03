@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jacob Yim"
 title_separator          : "-"
 name                     : &name "Jacob Yim"
-description              : &description "PhD Student at UC San Diego"
+description              : &description "CS PhD student at UC San Diego"
 url                      : https://jcbym.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jcbym/jcbym.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jacob Yim"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at UC San Diego"
-  location         : "La Jolla, CA"
+  bio              : "CS PhD student at UC San Diego"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : 
