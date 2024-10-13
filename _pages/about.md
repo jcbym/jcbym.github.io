@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I am a 1st year PhD student in Computer Science at UC San Diego in the [ProgSys Group](https://cseweb.ucsd.edu/groups/progsys/), advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). Previously, I did my undergrad at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/).  I owe a lot to these amazing mentors, both past and present!
 
-My primary research focus is at the intersection of **human-computer interaction** and **programming languages**. I'm also interested in other things, including data science, cognitive science, CS education, and learning sciences. I want to build new programming tools that make it easier for users from nontechnical backgrounds to write and understand code. Currently, I'm excited about exploring new ways to merge spreadsheets and code as mediums for interacting with data.
+My primary research focus is at the intersection of **human-computer interaction** and **programming languages**. I'm also interested in other things, including data science, cognitive science, CS education, and learning sciences. <ins>I want to build new programming systems and tools that make it easier for users from nontechnical backgrounds to write and understand code.</ins> Currently, I'm excited about exploring new ways to merge spreadsheets and code as mediums for interacting with data.
 
 ## Publications
 <sup>\* = equal contribution</sup>
