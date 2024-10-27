@@ -1,0 +1,103 @@
+body, code, pre {
+  font-family: 'Inconsolata', monospace;
+  font-size: larger;
+}
+
+.page {
+  display: flex;
+  background-image: url('/assets/images/bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: seashell;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  width: 1000px;
+}
+
+.profile {
+  display: flex;
+  align-items: flex-start; 
+}
+.profile img {
+  width: 200px;
+  margin-right: 10px; 
+}
+
+.description p {
+  margin-top: 10px;
+}
+
+.name {
+  display: flex;
+  align-items: flex-end;
+}
+
+.name h1 {
+  margin: 0; 
+  display: inline;
+  padding-right: 10px;
+}
+.name span {
+  margin: 0;
+  padding-bottom: 3px;
+  float: right;
+  opacity: 0.5;
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px;
+  font-size: 1.5em;
+}
+
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  margin-right: 20px;
+}
+
+.navbar li {
+  margin-left: 20px;
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.footer-bar {
+  background-image: url('/assets/images/footer.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 300px;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  z-index: 1000;
+  margin-top: 100px;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+a {
+  color: green;
+  text-decoration: none;
+}
+
+a:visited {
+  color: green;
+}
