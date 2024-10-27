@@ -36,7 +36,7 @@ Maria A Hahn, Seung-Gi Jin, Arthur X Li, Jiancheng Liu, Zhijun Huang, Xiwei Wu, 
 *Science Advances*
 
 ## Teaching
-[__Data 100: Principles and Techniques of Data Science__](https://ds100.org) \
+[__Data 100: Principles and Techniques of Data Science__](https://ds100.org) @ UC Berkeley \
 lead teaching assistant: Summer 2024 \
 teaching assistant: Spring 2023, Fall 2022, Summer 2022 \
 course tutor: Spring 2022, Fall 2021

@@ -12,10 +12,10 @@ __Unfamiliar Abstractions__ [[EPIC Advance poster](../assets/files/epic-poster-s
 Can we use program synthesis to produce *program translations* that enable users to understand code written in unfamiliar languages? Collaboration with [Justin Lubin](https://jlubin.net), Kevin Ye, Laila Walker, and [Prof. Sarah E. Chasins](https://schasins.com).
 
 __NumPy Program Synthesis__ <a name="numpy"></a> [[PLDI 2024 paper](https://doi.org/10.1145/3656453)] [[github](https://github.com/justinlubin/cobbler)] \
-A program synthesizer that generates NumPy from Python for loops, intended to allow a broader audience of programmers to write higher-performance code. Project in collaboration with [Justin Lubin](https://jlubin.net), Jeremy Ferguson, Kevin Ye, and [Prof. Sarah E. Chasins](https://schasins.com).
+A program synthesizer that generates NumPy from Python for loops, intended to allow a broader audience of programmers to write higher-performance code. Collaboration with [Justin Lubin](https://jlubin.net), Jeremy Ferguson, Kevin Ye, and [Prof. Sarah E. Chasins](https://schasins.com).
 
 __SEPO__ [[poster](../assets/files/sepo-poster.pdf)] [[paper](../assets/files/sepo-paper.pdf)] [[github](https://github.com/skberkeley/sepo)] \
-A symbolic execution engine for RISC-V assembly, used to output traces of CPU states and discover optimizing rewrites. Class project for CS 264 at Berkeley, in collaboration with [Sora Kanosue](https://skanosue.com).
+A symbolic execution engine for RISC-V assembly, used to output traces of CPU states and discover optimizing rewrites. Class project for CS 264 at Berkeley, with [Sora Kanosue](https://skanosue.com).
 
 ### CS/Design Education
 
