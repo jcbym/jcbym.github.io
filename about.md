@@ -15,23 +15,23 @@ __Theme Work on Teamwork: Mapping Student Teaming Experiences in Design Projects
 Sara Beckman, Krina Patel, Qiuquan Gu, Shang Zhu, Alexander Cui, and <ins>Jacob Yim</ins> \
 *FIE 2024*
 
-__Equivalence by Canonicalization for Synthesis-Backed Refactoring__ [[doi](https://doi.org/10.1145/3656453)] \
+__Equivalence by Canonicalization for Synthesis-Backed Refactoring__ [[link](https://doi.org/10.1145/3656453)] \
 Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E. Chasins \
 *PLDI 2024*
 
-__Supporting Mastery Learning with Flexible Extensions__ [[doi](https://doi.org/10.1145/3626253.3635615)] [[pdf](../assets/files/mastery-learning-flextensions.pdf)] \
+__Supporting Mastery Learning with Flexible Extensions__ [[link](https://doi.org/10.1145/3626253.3635615)] \
 Yuerou Tang\*, <ins>Jacob Yim</ins>\*, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
 *SIGCSE TS 2024 Poster*
 
-__Automated Support for Flexible Extensions__ [[doi](https://doi.org/10.1145/3626253.3635628)] [[pdf](../assets/files/automated-support-flextensions.pdf)] \
+__Automated Support for Flexible Extensions__ [[link](https://doi.org/10.1145/3626253.3635628)] \
 Jordan Schwartz, Madison Bohannan, <ins>Jacob Yim</ins>, Yuerou Tang, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
 *SIGCSE TS 2024 Poster*
 
-__Searching for Incidental Specifications__ [[doi](https://doi.org/10.1184/R1/22277332.v1)] [[pdf](../assets/files/incidental-specifications.pdf)] \
+__Searching for Incidental Specifications__ [[link](https://doi.org/10.1184/R1/22277332.v1)] \
 Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Justin Lubin \
 *PLATEAU 2023*
 
-__Reprogramming of DNA methylation at NEUROD2-bound sequences during cortical neuron differentiation__ [[doi](https://doi.org/10.1126/sciadv.aax0080)] [[pdf](https://www.science.org/doi/pdf/10.1126/sciadv.aax0080)] \
+__Reprogramming of DNA methylation at NEUROD2-bound sequences during cortical neuron differentiation__ [[link](https://doi.org/10.1126/sciadv.aax0080)] \
 Maria A Hahn, Seung-Gi Jin, Arthur X Li, Jiancheng Liu, Zhijun Huang, Xiwei Wu, Byung-Wook Kim, Jennifer Johnson, Adrienne-Denise V Bilbao, Shu Tao, <ins>Jacob A Yim</ins>, Yuman Fong, Sandra Goebbels, Markus H Schwab, Qiang Lu, and Gerd P Pfeifer \
 *Science Advances*
 
