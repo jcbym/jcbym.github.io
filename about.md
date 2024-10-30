@@ -47,3 +47,6 @@ Software Development Engineer Intern: Summer 2023, Summer 2022
 
 __Nirmata__ \
 Software Engineering Intern: Summer 2021
+
+
+last updated: 10/29/24
