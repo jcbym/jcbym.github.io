@@ -4,9 +4,9 @@ permalink: /
 title: ""
 ---
 
-Hi! I am a 1st year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). Previously, I did my undergrad at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/).  I owe a lot to these amazing mentors, both past and present!
+Hi! I am a 1st year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). Previously, I did my undergrad at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/). I owe a lot to these amazing mentors, both past and present!
 
-My primary research focus is at the intersection of **human-computer interaction** and **programming languages**. <ins>I want to build new programming systems that make it easier for users from nontechnical backgrounds to write and understand code.</ins> Currently, I'm excited about helping data scientists work more interactively with their data using direct manipulation and live programming.
+My primary research focus is at the intersection of **human-computer interaction** and **programming languages**. <ins>I want to invent new programming systems that make it easier to write and understand code without deep technical experience.</ins> Lately, I've been excited about building new *programming interfaces* for data scientists, data analysts, and end users.
 
 ## Publications
 <sup>(\* = equal contribution)</sup>
@@ -48,5 +48,4 @@ Software Development Engineer Intern: Summer 2023, Summer 2022
 __Nirmata__ \
 Software Engineering Intern: Summer 2021
 
-
-last updated: 10/29/24
+<sup>last updated: 11/26/24</sup>
