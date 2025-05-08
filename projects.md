@@ -7,7 +7,10 @@ title: ""
 <!-- ## Current Projects -->
 ## Past Projects
 
-### PL (+/-) HCI
+### Programming Tools
+__Jupyter Notebook Corpus Study__ [[paper]](../assets/files/notebooks.pdf) \
+In order to better understand how to support Jupyter Notebook users, we conducted an exploratory corpus study of 30 real-world notebooks. We classified notebooks based on application, structure, and types of data transformations. We found that notebooks are used in diverse ways, identifying opportunities to support notebook users through nonlinear structure. Class project for CSE 291-B00 at UCSD, with [Qinshi Zhang](https://carolzhangzz.github.io/).
+
 __Unfamiliar Abstractions__ [[EPIC Advance poster](../assets/files/epic-poster-sp23.pdf)] \
 Can we use program synthesis to produce *program translations* that enable users to understand code written in unfamiliar languages? Collaboration with [Justin Lubin](https://jlubin.net), Kevin Ye, Laila Walker, and [Prof. Sarah E. Chasins](https://schasins.com).
 
