@@ -8,6 +8,8 @@ Hi! I am a 1st year PhD student in Computer Science at UC San Diego, advised by 
 
 My research focus is at the intersection of **human-computer interaction** and **programming languages**. <ins>I am interested in inventing new *programming interfaces* that help end users and domain experts write and reason about programs.</ins> Lately, I've been excited about extending spreadsheets with new structures that grant flexibility, power, and safety to spreadsheet interactions.
 
+In the past, I also did work on CS and design education research projects, and way before that, biology research!
+
 ## Publications
 <sup>(\* = equal contribution)</sup>
 
@@ -41,11 +43,11 @@ lead teaching assistant: Summer 2024 \
 teaching assistant: Spring 2023, Fall 2022, Summer 2022 \
 course tutor: Spring 2022, Fall 2021
 
-## Industry Experience
-__Amazon Web Services__ \
-Software Development Engineer Intern: Summer 2023, Summer 2022
+## Honors and Awards
+__Outstanding Graduate Student Instructor Award__ \
+UC Berkeley, 2024-2025
 
-__Nirmata__ \
-Software Engineering Intern: Summer 2021
+__Regents' and Chancellor's Scholarship__ \
+UC Berkeley
 
-<sup>last updated: 02/04/25</sup>
+<sup>last updated: 05/07/25</sup>
