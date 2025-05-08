@@ -4,11 +4,11 @@ permalink: /
 title: ""
 ---
 
-Hi! I am a 1st year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). Previously, I did my undergrad and MS at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/). I owe a lot to these amazing mentors, both past and present!
+Hi! I am a 1st year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/) at UCSD. Previously, I did my undergrad and MS at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/). I owe a lot to these amazing mentors, both past and present!
 
-My research focus is at the intersection of **human-computer interaction** and **programming languages**. <ins>I am interested in inventing new *programming interfaces* that help end users and domain experts write and reason about programs.</ins> Lately, I've been excited about extending spreadsheets with new structures that grant flexibility, power, and safety to spreadsheet interactions.
+My research focus is at the intersection of **human-computer interaction** and **programming languages**. <ins>I am interested in inventing new *programming interfaces* that help end users and domain experts interactively write and reason about programs.</ins> Lately, I've been excited about filling the gap between spreadsheets and code for data analysis tasks by extending spreadsheets with new structures that grant flexibility, power, and safety to end users.
 
-In the past, I also did work on CS and design education research projects, and way before that, biology research!
+In the past, I also did work on CS and design education research, and way before that, biology research!
 
 ## Publications
 <sup>(\* = equal contribution)</sup>
@@ -50,4 +50,4 @@ UC Berkeley, 2024-2025
 __Regents' and Chancellor's Scholarship__ \
 UC Berkeley
 
-<sup>last updated: 05/07/25</sup>
+<sup>last updated: 05/07/25 🌱</sup>
