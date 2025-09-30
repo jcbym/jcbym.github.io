@@ -4,16 +4,16 @@ permalink: /
 title: ""
 ---
 
-Hi! I am a 1st year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/) at UCSD. Previously, I did my undergrad and MS at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/). I owe a lot to these amazing mentors, both past and present!
+Hi! I am a 2nd year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/) at UCSD. Previously, I did my undergrad and MS at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/). I owe a lot to these amazing mentors, both past and present!
 
-My research focus is at the intersection of **human-computer interaction** and **programming languages**. <ins>I am interested in inventing new *programming interfaces* that help end users and domain experts interactively write and reason about programs.</ins> Lately, I've been excited about filling the gap between spreadsheets and code for data analysis tasks by extending spreadsheets with new structures that grant flexibility, power, and safety to end users.
+My research focus is at the intersection of **human-computer interaction** and **programming languages**. <ins>I am interested in inventing new *programming interfaces* that help end users and domain experts interactively write and reason about programs.</ins> Lately, I've been excited about closing the gap between spreadsheets and code by enhancing spreadsheets with *explicit structure*, enabling end users to design powerful abstractions and express computations that are typically reserved for programmers.
 
-In the past, I also did work on CS and design education research, and way before that, biology research!
+In the past, I also did work on CS/design education research, and way before that, biology research!
 
 ## Publications
 <sup>(\* = equal contribution)</sup>
 
-__Theme Work on Teamwork: Mapping Student Teaming Experiences in Design Projects__ \
+__Theme Work on Teamwork: Mapping Student Teaming Experiences in Design Projects__ [[link](https://doi.ieeecomputersociety.org/10.1109/FIE61694.2024.10892946)] \
 Sara Beckman, Krina Patel, Qiuquan Gu, Shang Zhu, Alexander Cui, and <ins>Jacob Yim</ins> \
 *FIE 2024*
 
@@ -38,6 +38,9 @@ Maria A Hahn, Seung-Gi Jin, Arthur X Li, Jiancheng Liu, Zhijun Huang, Xiwei Wu, 
 *Science Advances*
 
 ## Teaching
+[__DSC 106: Data Visualization__](https://dsc106.com) @ UCSD \
+head teaching assistant: Fall 2025
+
 [__Data 100: Principles and Techniques of Data Science__](https://ds100.org) @ UC Berkeley \
 lead teaching assistant: Summer 2024 \
 teaching assistant: Spring 2023, Fall 2022, Summer 2022 \
@@ -50,4 +53,4 @@ UC Berkeley, 2024-2025
 __Regents' and Chancellor's Scholarship__ \
 UC Berkeley
 
-<sup>last updated: 05/07/25 🌱</sup>
+<sup>last updated: 09/30/25 🍂</sup>
