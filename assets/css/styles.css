@@ -1,6 +1,12 @@
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
 body, code, pre {
   font-family: 'Inconsolata', monospace;
-  font-size: larger;
+  font-size: 1rem;
 }
 
 .page {
@@ -16,12 +22,20 @@ body, code, pre {
 
 .container {
   background-color: seashell;
-  padding-left: 100px;
-  padding-right: 100px;
-  padding-bottom: 50px;
+  padding: 0 16px 50px;
   margin-top: 50px;
   margin-bottom: 100px;
-  width: 1150px;
+  max-width: 1150px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+  .container { padding: 0 32px 50px; }
+}
+
+@media (min-width: 1024px) {
+  .container { padding: 0 100px 50px; }
 }
 
 .profile {
