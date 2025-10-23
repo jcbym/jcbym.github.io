@@ -6,9 +6,11 @@ title: ""
 
 Hi! I am a 2nd year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/) at UCSD. Previously, I did my undergrad and MS at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/). I owe a lot to these amazing mentors, both past and present!
 
-My research focus is at the intersection of **human-computer interaction** and **programming languages**. <ins>I am interested in inventing *programming interfaces* that help end users and domain experts write and reason about programs with agency.</ins> Lately, I've been excited about closing the gap between spreadsheets and code by enhancing spreadsheets with *explicit structures* that enable new forms of spreadsheet computation and abstraction.
+My research focus is at the intersection of **human-computer interaction** and **programming languages**. I am interested in building *programming interfaces* that help end users and domain experts interactively write and reason about programs with agency.
 
-In the past, I also did work on CS/design education research, and way before that, biology research!
+Lately, I've been excited about shrinking the gap in power between programming experts and end-user programmers working with data. I am approaching this problem from two angles: by enhancing spreadsheets with *explicit structures* that enable new forms of abstraction and computation, and by designing programming-by-demonstration tools for directly manipulating tabular data.
+
+In the past, I worked on program synthesis, CS/design education research, and biology!
 
 ## Publications
 <sup>(\* = equal contribution)</sup>
@@ -53,4 +55,4 @@ UC Berkeley, 2024-2025
 __Regents' and Chancellor's Scholarship__ \
 UC Berkeley
 
-<sup>last updated: 09/30/25 🍂</sup>
+<sup>last updated: 10/23/25 🍂</sup>
