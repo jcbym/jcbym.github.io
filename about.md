@@ -8,7 +8,7 @@ Hi! I am a 2nd year PhD student in Computer Science at UC San Diego, advised by 
 
 My research focus is at the intersection of **human-computer interaction** and **programming languages**. I am interested in building *programming interfaces* that help end users and domain experts interactively write and reason about programs with agency.
 
-Lately, I've been excited about shrinking the gap in power between traditional programming and end-user programming tools (e.g. spreadsheets) for working with data. I am approaching this problem from two angles: first, by enhancing spreadsheets with *explicit structure* using graphical, manipulable data structures and custom abstractions on the grid; and second, by designing new programming-by-demonstration tools for directly manipulating tabular data.
+Lately, I've been excited about shrinking the power gap between traditional programming and graphical tools (e.g. spreadsheets) for working with data. I am approaching this problem from two angles: first, by enhancing spreadsheets with *explicit structure* using graphical, manipulable data structures and custom abstractions on the grid; and second, by designing new programming-by-demonstration tools for directly manipulating tabular data.
 
 In the past, I worked on program synthesis, CS/design education, and even biology research! I did my undergrad and MS at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/). I owe a lot to my amazing mentors, both past and present!
 
