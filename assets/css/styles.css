@@ -72,7 +72,7 @@ body, code, pre {
   display: flex;
   justify-content: flex-end;
   padding: 20px;
-  font-size: 1.5em;
+  font-size: 20px;
 }
 
 .navbar ul {
