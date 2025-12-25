@@ -6,7 +6,7 @@ title: ""
 
 Hi! I am a 2nd year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/) at UCSD.
 
-My research focus is on **human-computer interaction** for **end-user programming**. I am interested in building *programming interfaces* that help end users and domain experts interactively write and reason about programs with agency.
+My research focus is at the intersection of **human-computer interaction** and **programming languages**. I am interested in building *programming interfaces* that help end users and domain experts interactively write and reason about programs with agency.
 
 Lately, I've been excited about shrinking the power gap between traditional programming and graphical tools (e.g. spreadsheets) for working with data. I am approaching this problem from two angles: first, by enhancing spreadsheets with *explicit structure* using graphical, manipulable data structures and custom abstractions on the grid; and second, by designing new programming-by-demonstration tools for directly manipulating tabular data.
 
