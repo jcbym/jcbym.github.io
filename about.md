@@ -4,13 +4,11 @@ permalink: /
 title: ""
 ---
 
-Hi! I am a 2nd year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/) at UCSD.
+Hi! I am a 2nd year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/).
 
-My research focus is at the intersection of **human-computer interaction** and **programming languages**. I am interested in building *programming interfaces* that help end users and domain experts interactively write and reason about programs with agency.
+My research is in human-computer interaction, with a focus on programming tools. Lately, I've been excited about shrinking the power gap between spreadsheets and code for end-users working with data.
 
-Lately, I've been excited about shrinking the power gap between traditional programming and graphical tools (e.g. spreadsheets) for working with data. I am approaching this problem from two angles: first, by enhancing spreadsheets with *explicit structure* using graphical, manipulable data structures and custom abstractions on the grid; and second, by designing new programming-by-demonstration tools for directly manipulating tabular data.
-
-In the past, I worked on program synthesis, CS/design education, and even biology research! I did my undergrad and MS at UC Berkeley, where I was advised by [Sarah E. Chasins](https://schasins.com/) and mentored by [Justin Lubin](https://jlubin.net/). I owe a lot to my amazing mentors, both past and present!
+In the past, I worked on program synthesis, CS education, and biology. I did my undergrad and MS at UC Berkeley, where I worked with [Sarah E. Chasins](https://schasins.com/) and [Justin Lubin](https://jlubin.net/). I owe a lot to my amazing mentors, past and present!
 
 ## Publications
 <sup>(\* = equal contribution)</sup>
@@ -40,6 +38,9 @@ Maria A Hahn, Seung-Gi Jin, Arthur X Li, Jiancheng Liu, Zhijun Huang, Xiwei Wu, 
 *Science Advances*
 
 ## Teaching
+[__CSE 210: Principles of Software Engineering__](https://mcoblenz.github.io/CSE210/) @ UCSD \
+teaching assistant: Winter 2026
+
 [__DSC 106: Data Visualization__](https://dsc106.com) @ UCSD \
 head teaching assistant: Fall 2025
 
@@ -48,11 +49,4 @@ lead teaching assistant: Summer 2024 \
 teaching assistant: Spring 2023, Fall 2022, Summer 2022 \
 course tutor: Spring 2022, Fall 2021
 
-## Honors and Awards
-__Outstanding Graduate Student Instructor Award__ \
-UC Berkeley, 2024-2025
-
-__Regents' and Chancellor's Scholarship__ \
-UC Berkeley
-
-<sup>last updated: 10/23/25 🍂</sup>
+<sup>last updated: 2/26/26 ☃️</sup>

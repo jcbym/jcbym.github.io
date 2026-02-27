@@ -4,8 +4,13 @@ html {
   text-size-adjust: 100%;
 }
 
+@font-face {
+  font-family: 'Redaction';
+  src: url('/assets/fonts/Redaction-Regular.woff2') format('woff2');
+}
+
 body, code, pre {
-  font-family: 'Inconsolata', monospace;
+  font-family: 'Redaction';
   font-size: 1rem;
 }
 
@@ -25,17 +30,17 @@ body, code, pre {
   padding: 0 16px 50px;
   margin-top: 50px;
   margin-bottom: 100px;
-  max-width: 1150px;
+  max-width: 80%;
   width: 100%;
   box-sizing: border-box;
 }
 
 @media (min-width: 768px) {
-  .container { padding: 0 32px 50px; }
+  .content { padding: 0 32px 0px; }
 }
 
 @media (min-width: 1024px) {
-  .container { padding: 0 100px 50px; }
+  .content { padding: 0 100px 0px; }
 }
 
 .profile {
@@ -63,7 +68,7 @@ body, code, pre {
 }
 .name span {
   margin: 0;
-  padding-bottom: 3px;
+  padding-bottom: 8px;
   float: right;
   opacity: 0.5;
 }
@@ -71,16 +76,9 @@ body, code, pre {
 .navbar {
   display: flex;
   justify-content: flex-end;
-  padding: 20px;
+  padding: 20px 20px 20px 0px;
   font-size: 24px;
-}
-
-.navbar ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  margin-right: 20px;
+  gap: 20px;
 }
 
 .navbar li {
