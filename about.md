@@ -6,7 +6,7 @@ title: ""
 
 Hi! I am a 2nd year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/).
 
-My research is in human-computer interaction, with a focus on end-user programming tools. I'm interested in helping end-users express powerful computations with agency. Lately, I've been excited about shrinking the power gap between spreadsheets and code.
+My research is in human-computer interaction, with a focus on end-user programming tools. Lately, I've been excited about shrinking the power gap between spreadsheets and code.
 
 In the past, I worked on program synthesis, CS education, and biology. I did my undergrad and MS at UC Berkeley, where I worked with [Sarah E. Chasins](https://schasins.com/) and [Justin Lubin](https://jlubin.net/). I owe a lot to my amazing mentors, past and present!
 
