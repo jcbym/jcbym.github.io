@@ -6,20 +6,20 @@ title: ""
 
 Hi! I am a 2nd year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/).
 
-My research is in human-computer interaction, with a focus on end-user programming tools. Lately, I've been thinking about ways to close the power gap between spreadsheets and code. More broadly, I'm interested in flexible, configurable tools for visually representing, manipulating, and computing with data. If you're also excited about these things, or if you're an undergrad looking to get involved in research, I would love to hear from you! 
+My research is in human-computer interaction, with a focus on end-user programming tools. Lately, I've been thinking about ways to close the power gap between spreadsheets and code. I'm also interested in flexible, configurable tools for visually representing, manipulating, and computing with data. If you're also excited about these things, or if you're an undergrad looking to get involved in research, I would love to hear from you! 
 
 In the past, I worked on program synthesis, CS education, and biology. I did my undergrad and MS at UC Berkeley, where I worked with [Sarah E. Chasins](https://schasins.com/) and [Justin Lubin](https://jlubin.net/). I owe a lot to my amazing mentors, past and present!
 
 ## Publications
 <sup>(\* = equal contribution)</sup>
 
-__Theme Work on Teamwork: Mapping Student Teaming Experiences in Design Projects__ [[link](https://doi.ieeecomputersociety.org/10.1109/FIE61694.2024.10892946)] \
-Sara Beckman, Krina Patel, Qiuquan Gu, Shang Zhu, Alexander Cui, and <ins>Jacob Yim</ins> \
-*FIE 2024*
-
 __Equivalence by Canonicalization for Synthesis-Backed Refactoring__ [[link](https://doi.org/10.1145/3656453)] \
 Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E. Chasins \
 *PLDI 2024*
+
+__Theme Work on Teamwork: Mapping Student Teaming Experiences in Design Projects__ [[link](https://doi.ieeecomputersociety.org/10.1109/FIE61694.2024.10892946)] \
+Sara Beckman, Krina Patel, Qiuquan Gu, Shang Zhu, Alexander Cui, and <ins>Jacob Yim</ins> \
+*FIE 2024*
 
 __Supporting Mastery Learning with Flexible Extensions__ [[link](https://doi.org/10.1145/3626253.3635615)] \
 Yuerou Tang\*, <ins>Jacob Yim</ins>\*, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
