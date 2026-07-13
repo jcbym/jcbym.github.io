@@ -12,6 +12,7 @@ In the past, I worked on program synthesis, CS education, and biology. I did my 
 
 ## Publications
 <sup>(\* = equal contribution, † = research mentee)</sup>
+
 __Exploring the Translation-As-Explanation Folk Wisdom for Program Editing Tasks__ [coming soon!] \
 <ins>Jacob Yim<ins>\*, Justin Lubin\*, Kevin Ye, Laila Walker†, Eric Rawn, and Sarah E. Chasins \
 *To appear at VL/HCC 2026*
