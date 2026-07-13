@@ -14,7 +14,7 @@ In the past, I worked on program synthesis, CS education, and biology. I did my 
 <sup>(\* = equal contribution, † = research mentee)</sup>
 
 __Exploring the Translation-As-Explanation Folk Wisdom for Program Editing Tasks__ [coming soon!] \
-<ins>Jacob Yim<ins>\*, Justin Lubin\*, Kevin Ye, Laila Walker†, Eric Rawn, and Sarah E. Chasins \
+<ins>Jacob Yim</ins>\*, Justin Lubin\*, Kevin Ye, Laila Walker†, Eric Rawn, and Sarah E. Chasins \
 *To appear at VL/HCC 2026*
 
 __Equivalence by Canonicalization for Synthesis-Backed Refactoring__ [[link](https://doi.org/10.1145/3656453)] \
