@@ -6,12 +6,15 @@ title: ""
 
 Hi! I am a 2nd year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/).
 
-My research is in human-computer interaction, with a focus on end-user programming tools. Lately, I've been thinking about ways to close the power gap between spreadsheets and code. I'm also interested in flexible, configurable tools for visually representing, manipulating, and computing with data. If you're also excited about these things, or if you're looking to get involved in research, I would love to hear from you! 
+My research is in human-computer interaction, with a focus on end-user programming tools. Lately, I've been thinking about ways to close the power gap between spreadsheets and code. If you're also excited about these things, or if you're looking to get involved in research, I would love to hear from you!
 
 In the past, I worked on program synthesis, CS education, and biology. I did my undergrad and MS at UC Berkeley, where I worked with [Sarah E. Chasins](https://schasins.com/) and [Justin Lubin](https://jlubin.net/). I owe a lot to my amazing mentors, past and present!
 
 ## Publications
-<sup>(\* = equal contribution)</sup>
+<sup>(\* = equal contribution, † = research mentee)</sup>
+__Exploring the Translation-As-Explanation Folk Wisdom for Program Editing Tasks__ [coming soon!] \
+<ins>Jacob Yim<ins>\*, Justin Lubin\*, Kevin Ye, Laila Walker†, Eric Rawn, and Sarah E. Chasins \
+*To appear at VL/HCC 2026*
 
 __Equivalence by Canonicalization for Synthesis-Backed Refactoring__ [[link](https://doi.org/10.1145/3656453)] \
 Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E. Chasins \
@@ -49,6 +52,6 @@ lead teaching assistant: Summer 2024 \
 teaching assistant: Spring 2023, Fall 2022, Summer 2022 \
 course tutor: Spring 2022, Fall 2021
 
-<sup>last updated: 4/24/26 🌼</sup>
+<sup>last updated: 7/12/26 ☀️</sup>
 
-<!-- <sup>Photo credit to Sami Chiang. The plants behind me are from Tilden Park in Berkeley, CA. The plants in the background image are from Muir Woods in Mill Valley, CA. The design of this website is inspired by the covers of two of my favorite albums, created by Porter Robinson and by Candy Claws and Jenn Morea, respectively. The font is Redaction.</sup> -->
+<!-- <sup>Photo credit to Sami Chiang. The plants behind me are from Tilden Park in Berkeley, CA. The plants in the background image are from Muir Woods in Mill Valley, CA. The design of this website is inspired by the covers of two of my favorite albums, by Porter Robinson and by Candy Claws and Jenn Morea, respectively. The font is Redaction.</sup> -->
