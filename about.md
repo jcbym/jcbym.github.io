@@ -6,7 +6,7 @@ title: ""
 
 Hi! I am a 2nd year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/).
 
-My research is in human-computer interaction, with a focus on end-user programming tools. Lately, I've been thinking about ways to close the power gap between spreadsheets and code. If you're also excited about these things, or if you're looking to get involved in research, I would love to hear from you!
+My research is in human-computer interaction, with a focus on end-user programming tools. Lately, I've been interested in developing systems for gradually reshaping informal documents into structured, computational interfaces. If you're also excited about these things, or if you're looking to get involved in research, I would love to hear from you!
 
 In the past, I worked on program synthesis, CS education, and biology. I did my undergrad and MS at UC Berkeley, where I worked with [Sarah E. Chasins](https://schasins.com/) and [Justin Lubin](https://jlubin.net/). I owe a lot to my amazing mentors, past and present!
 
@@ -55,4 +55,4 @@ course tutor: Spring 2022, Fall 2021
 
 <sup>last updated: 7/12/26 ☀️</sup>
 
-<!-- <sup>Photo credit to Sami Chiang. The plants behind me are from Tilden Park in Berkeley, CA. The plants in the background image are from Muir Woods in Mill Valley, CA. The design of this website is inspired by the covers of two of my favorite albums, by Porter Robinson and by Candy Claws and Jenn Morea, respectively. The font is Redaction.</sup> -->
+<!-- <sup>Photo credit to Sami Chiang. The font is Redaction.</sup> -->
