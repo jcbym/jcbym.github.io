@@ -13,12 +13,16 @@ In the past, I worked on program synthesis, CS education, and biology. I did my 
 ## Publications
 <sup>(\* = equal contribution, † = research mentee)</sup>
 
+__Cellery: Gradual, Composable Structure for Spreadsheets__ [coming soon!] \
+<ins>Jacob Yim</ins>, Sathwika Peechara, Brian Hempel, and Michael Coblenz \
+*To appear at UIST 2026*
+
 __Exploring the Translation-As-Explanation Folk Wisdom for Program Editing Tasks__ [coming soon!] \
-<ins>Jacob Yim</ins>\*, Justin Lubin\*, Kevin Ye, Laila Walker†, Eric Rawn, and Sarah E. Chasins \
+<ins>Jacob Yim</ins><sup>\*</sup>, Justin Lubin<sup>\*</sup>, Kevin Ye, Laila Walker<sup>†</sup>, Eric Rawn, and Sarah E. Chasins \
 *To appear at VL/HCC 2026*
 
 __Equivalence by Canonicalization for Synthesis-Backed Refactoring__ [[link](https://doi.org/10.1145/3656453)] \
-Justin Lubin, Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Sarah E. Chasins \
+Justin Lubin, Jeremy Ferguson<sup>\*</sup>, Kevin Ye<sup>\*</sup>, <ins>Jacob Yim</ins><sup>\*</sup>, and Sarah E. Chasins \
 *PLDI 2024*
 
 __Theme Work on Teamwork: Mapping Student Teaming Experiences in Design Projects__ [[link](https://doi.ieeecomputersociety.org/10.1109/FIE61694.2024.10892946)] \
@@ -26,7 +30,7 @@ Sara Beckman, Krina Patel, Qiuquan Gu, Shang Zhu, Alexander Cui, and <ins>Jacob 
 *FIE 2024*
 
 __Supporting Mastery Learning with Flexible Extensions__ [[link](https://doi.org/10.1145/3626253.3635615)] \
-Yuerou Tang\*, <ins>Jacob Yim</ins>\*, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
+Yuerou Tang<sup>\*</sup>, <ins>Jacob Yim</ins><sup>\*</sup>, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi \
 *SIGCSE TS 2024 Poster*
 
 __Automated Support for Flexible Extensions__ [[link](https://doi.org/10.1145/3626253.3635628)] \
@@ -34,7 +38,7 @@ Jordan Schwartz, Madison Bohannan, <ins>Jacob Yim</ins>, Yuerou Tang, Dana Bened
 *SIGCSE TS 2024 Poster*
 
 __Searching for Incidental Specifications__ [[link](https://doi.org/10.1184/R1/22277332.v1)] \
-Jeremy Ferguson\*, Kevin Ye\*, <ins>Jacob Yim</ins>\*, and Justin Lubin \
+Jeremy Ferguson<sup>\*</sup>, Kevin Ye<sup>\*</sup>, <ins>Jacob Yim</ins><sup>\*</sup>, and Justin Lubin \
 *PLATEAU 2023*
 
 __Reprogramming of DNA methylation at NEUROD2-bound sequences during cortical neuron differentiation__ [[link](https://doi.org/10.1126/sciadv.aax0080)] \
