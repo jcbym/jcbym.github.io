@@ -57,6 +57,6 @@ lead teaching assistant: Summer 2024 \
 teaching assistant: Spring 2023, Fall 2022, Summer 2022 \
 course tutor: Spring 2022, Fall 2021
 
-<sup>last updated: 7/12/26 ☀️</sup>
+<sup>last updated: 8/8/26 ☀️</sup>
 
 <!-- <sup>Photo credit to Sami Chiang. The font is Redaction.</sup> -->
