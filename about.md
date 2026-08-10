@@ -14,7 +14,7 @@ In the past, I worked on program synthesis, CS education, and biology. I did my 
 <sup>(\* = equal contribution, † = research mentee)</sup>
 
 __Cellery: Gradual, Composable Structure for Spreadsheets__ [coming soon!] \
-<ins>Jacob Yim</ins>, Sathwika Peechara, Brian Hempel, and Michael Coblenz \
+<ins>Jacob Yim</ins>, Sathwika Peechara<sup>†</sup>, Brian Hempel, and Michael Coblenz \
 *To appear at UIST 2026*
 
 __Exploring the Translation-As-Explanation Folk Wisdom for Program Editing Tasks__ [coming soon!] \
