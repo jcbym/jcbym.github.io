@@ -97,3 +97,7 @@ a {
 a:visited {
   color: green;
 }
+
+.email {
+  font-family: 'Inconsolata', monospace;
+}
