@@ -8,7 +8,7 @@ Hi! I am a 2nd year PhD student in Computer Science at UC San Diego, advised by 
 
 My research is in human-computer interaction, with a focus on end-user programming tools. Lately, I've been interested in enabling end users to manipulate the *structure* and *representation* of information across media. If you're also excited about these things, or if you're looking to get involved in research, I would love to hear from you!
 
-In the past, I worked on program synthesis, CS education, and biology. I did my undergrad and MS at UC Berkeley, where I worked with [Sarah E. Chasins](https://schasins.com/) and [Justin Lubin](https://jlubin.net/). I owe a lot to my amazing mentors, past and present!
+In the past, I worked on program synthesis, CS education, and biology. I did my undergrad and master's at UC Berkeley, where I worked with [Sarah E. Chasins](https://schasins.com/) and [Justin Lubin](https://jlubin.net/). I owe a lot to my amazing mentors, past and present!
 
 ## Publications
 <sup>(\* = equal contribution, † = research mentee)</sup>

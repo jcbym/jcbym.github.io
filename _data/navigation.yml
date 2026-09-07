@@ -1,6 +1,4 @@
 - name: Home
   link: /
-- name: Projects
-  link: /projects.html
 - name: CV
   link: /assets/files/jacob-yim-cv.pdf
