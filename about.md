@@ -4,11 +4,11 @@ permalink: /
 title: ""
 ---
 
-Hi! I am a 2nd year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/).
+Hi! I am a 3rd year PhD student in Computer Science at UC San Diego, advised by [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/). I am part of the [Programming Systems Group](https://cseweb.ucsd.edu/groups/progsys/) and the [Design Lab](https://designlab.ucsd.edu/).
 
 My research is in human-computer interaction, with a focus on end-user programming tools. Lately, I've been interested in enabling end users to manipulate the *structure* and *representation* of information across media. If you're also excited about these things, or if you're looking to get involved in research, I would love to hear from you!
 
-In the past, I worked on program synthesis, CS education, and biology. I did my undergrad and master's at UC Berkeley, where I worked with [Sarah E. Chasins](https://schasins.com/) and [Justin Lubin](https://jlubin.net/). I owe a lot to my amazing mentors, past and present!
+In the past, I worked on program synthesis, CS education, and biology. I completed my undergraduate and master's degrees at UC Berkeley, where I worked with [Sarah E. Chasins](https://schasins.com/) and [Justin Lubin](https://jlubin.net/). I owe a lot to many amazing mentors, past and present!
 
 ## Publications
 <sup>(\* = equal contribution, † = research mentee)</sup>
@@ -46,6 +46,9 @@ Maria A Hahn, Seung-Gi Jin, Arthur X Li, Jiancheng Liu, Zhijun Huang, Xiwei Wu, 
 *Science Advances*
 
 ## Teaching
+[__CSE 170: Interaction Design__](https://kristenvaccaro.github.io/interaction-design/) @ UCSD \
+teaching assistant: Fall 2026
+
 [__CSE 210: Principles of Software Engineering__](https://mcoblenz.github.io/CSE210/) @ UCSD \
 teaching assistant: Winter 2026
 
