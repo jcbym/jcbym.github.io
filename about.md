@@ -30,7 +30,7 @@ In the past, I worked on program synthesis, CS education, and biology. I complet
 
 <div class="block selected">
   <div class="paper" markdown="1">
-  ![teaser](assets/images/teasers/vlhcc26_translations.png)
+  ![teaser](assets/images/teasers/vlhcc26_translations_padded.png)
   __Exploring the Translation-As-Explanation Folk Wisdom for Program Editing Tasks__  
   [pdf](assets/files/vlhcc26_translations.pdf){: .btn}  
   <ins>Jacob Yim</ins><sup>\*</sup>, Justin Lubin<sup>\*</sup>, Kevin Ye, Laila Walker<sup>†</sup>, Eric Rawn, and Sarah E. Chasins  
@@ -44,7 +44,7 @@ In the past, I worked on program synthesis, CS education, and biology. I complet
 
 <div class="block selected">
   <div class="paper" markdown="1">
-  ![teaser](assets/images/teasers/pldi24_cobbler.png)
+  ![teaser](assets/images/teasers/pldi24_cobbler_padded.png)
   __Equivalence by Canonicalization for Synthesis-Backed Refactoring__  
   [doi](https://doi.org/10.1145/3656453){: .btn} [pdf](assets/files/pldi24_cobbler.pdf){: .btn}  
   Justin Lubin, Jeremy Ferguson<sup>\*</sup>, Kevin Ye<sup>\*</sup>, <ins>Jacob Yim</ins><sup>\*</sup>, and Sarah E. Chasins  

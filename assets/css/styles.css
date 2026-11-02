@@ -139,14 +139,13 @@ a:visited {
 
 .paper img {
   position: absolute;
-  /* extends over the summary line (1.05rem) below .paper */
   top: calc(50% + 0.525rem);
   left: 75%;
   transform: translate(-50%, -50%);
   max-width: calc(50%);
   max-height: calc(100% + 1.05rem);
   box-sizing: border-box;
-  border: 2px solid #ffe6d3;
+  /* border: 2px solid #ffe6d3; */
   border-radius: 6px;
 }
 
