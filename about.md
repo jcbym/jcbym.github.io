@@ -18,7 +18,7 @@ In the past, I worked on program synthesis, CS education, and biology. I complet
   <div class="paper" markdown="1">
   ![teaser](assets/images/teasers/uist26_cellery.png)
   __Cellery: Gradual, Composable Structure for Spreadsheets__  
-  [doi](https://doi.org/10.1145/3830398.3830625){: .btn} [pdf](assets/files/uist26_cellery.pdf){: .btn} [video (5 min)](https://youtu.be/8RdDz-4D09w) {: .btn}
+  [doi](https://doi.org/10.1145/3830398.3830625){: .btn} [pdf](assets/files/uist26_cellery.pdf){: .btn} [video (5 min)](https://youtu.be/8RdDz-4D09w) {: .btn}  
   <ins>Jacob Yim</ins>, Sathwika Peechara<sup>†</sup>, Brian Hempel, and Michael Coblenz  
   *UIST 2026*
   </div>
