@@ -15,9 +15,8 @@ In the past, I worked on program synthesis, CS education, and biology. I complet
 <sup>( * = equal contribution, † = research mentee)</sup>
 
 <div class="block selected">
+  <img class="teaser" src="assets/images/teasers/uist26_cellery.png" alt="teaser">
   <div class="paper" markdown="1">
-  ![teaser](assets/images/teasers/uist26_cellery.png)
-
   __Cellery: Gradual, Composable Structure for Spreadsheets__  
   [doi](https://doi.org/10.1145/3830398.3830625){: .btn} [pdf](assets/files/uist26_cellery.pdf){: .btn} [video (5 min)](https://youtu.be/8RdDz-4D09w){: .btn} [talk (12 min)](https://youtu.be/-iUolHRVJoc){: .btn}  
   <ins>Jacob Yim</ins>, Sathwika Peechara<sup>†</sup>, Brian Hempel, and Michael Coblenz  
@@ -30,9 +29,8 @@ In the past, I worked on program synthesis, CS education, and biology. I complet
 </div>
 
 <div class="block selected">
+  <img class="teaser" src="assets/images/teasers/vlhcc26_translations_padded.png" alt="teaser">
   <div class="paper" markdown="1">
-  ![teaser](assets/images/teasers/vlhcc26_translations_padded.png)
-
   __Exploring the Translation-As-Explanation Folk Wisdom for Program Editing Tasks__  
   [doi](https://doi.org/10.1109/VL/HCC71707.2026.11772778){: .btn} [pdf](assets/files/vlhcc26_translations.pdf){: .btn}  
   <ins>Jacob Yim</ins><sup>\*</sup>, Justin Lubin<sup>\*</sup>, Kevin Ye, Laila Walker<sup>†</sup>, Eric Rawn, and Sarah E. Chasins  
@@ -45,9 +43,8 @@ In the past, I worked on program synthesis, CS education, and biology. I complet
 </div>
 
 <div class="block selected">
+  <img class="teaser" src="assets/images/teasers/pldi24_cobbler_padded.png" alt="teaser">
   <div class="paper" markdown="1">
-  ![teaser](assets/images/teasers/pldi24_cobbler_padded.png)
-
   __Equivalence by Canonicalization for Synthesis-Backed Refactoring__  
   [doi](https://doi.org/10.1145/3656453){: .btn} [pdf](assets/files/pldi24_cobbler.pdf){: .btn}  
   Justin Lubin, Jeremy Ferguson<sup>\*</sup>, Kevin Ye<sup>\*</sup>, <ins>Jacob Yim</ins><sup>\*</sup>, and Sarah E. Chasins  
@@ -73,9 +70,8 @@ In the past, I worked on program synthesis, CS education, and biology. I complet
 </div>
 
 <div class="block">
+  <img class="teaser" src="assets/images/teasers/sigcse24_flextensions.png" alt="teaser">
   <div class="paper" markdown="1">
-  ![teaser](assets/images/teasers/sigcse24_flextensions.png)
-
   __Supporting Mastery Learning with Flexible Extensions__  
   [doi](https://doi.org/10.1145/3626253.3635615){: .btn}  
   Yuerou Tang<sup>\*</sup>, <ins>Jacob Yim</ins><sup>\*</sup>, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi  
