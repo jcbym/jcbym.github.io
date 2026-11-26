@@ -17,8 +17,9 @@ In the past, I worked on program synthesis, CS education, and biology. I complet
 <div class="block selected">
   <div class="paper" markdown="1">
   ![teaser](assets/images/teasers/uist26_cellery.png)
+
   __Cellery: Gradual, Composable Structure for Spreadsheets__  
-  [doi](https://doi.org/10.1145/3830398.3830625){: .btn} [pdf](assets/files/uist26_cellery.pdf){: .btn} [video (5 min)](https://youtu.be/8RdDz-4D09w){: .btn}  
+  [doi](https://doi.org/10.1145/3830398.3830625){: .btn} [pdf](assets/files/uist26_cellery.pdf){: .btn} [video (5 min)](https://youtu.be/8RdDz-4D09w){: .btn} [talk (12 min)](https://youtu.be/-iUolHRVJoc){: .btn}  
   <ins>Jacob Yim</ins>, Sathwika Peechara<sup>†</sup>, Brian Hempel, and Michael Coblenz  
   *UIST 2026*
   </div>
@@ -31,8 +32,9 @@ In the past, I worked on program synthesis, CS education, and biology. I complet
 <div class="block selected">
   <div class="paper" markdown="1">
   ![teaser](assets/images/teasers/vlhcc26_translations_padded.png)
+
   __Exploring the Translation-As-Explanation Folk Wisdom for Program Editing Tasks__  
-  [pdf](assets/files/vlhcc26_translations.pdf){: .btn}  
+  [doi](https://doi.org/10.1109/VL/HCC71707.2026.11772778){: .btn} [pdf](assets/files/vlhcc26_translations.pdf){: .btn}  
   <ins>Jacob Yim</ins><sup>\*</sup>, Justin Lubin<sup>\*</sup>, Kevin Ye, Laila Walker<sup>†</sup>, Eric Rawn, and Sarah E. Chasins  
   *VL/HCC 2026*
   </div>
@@ -45,6 +47,7 @@ In the past, I worked on program synthesis, CS education, and biology. I complet
 <div class="block selected">
   <div class="paper" markdown="1">
   ![teaser](assets/images/teasers/pldi24_cobbler_padded.png)
+
   __Equivalence by Canonicalization for Synthesis-Backed Refactoring__  
   [doi](https://doi.org/10.1145/3656453){: .btn} [pdf](assets/files/pldi24_cobbler.pdf){: .btn}  
   Justin Lubin, Jeremy Ferguson<sup>\*</sup>, Kevin Ye<sup>\*</sup>, <ins>Jacob Yim</ins><sup>\*</sup>, and Sarah E. Chasins  
@@ -72,6 +75,7 @@ In the past, I worked on program synthesis, CS education, and biology. I complet
 <div class="block">
   <div class="paper" markdown="1">
   ![teaser](assets/images/teasers/sigcse24_flextensions.png)
+
   __Supporting Mastery Learning with Flexible Extensions__  
   [doi](https://doi.org/10.1145/3626253.3635615){: .btn}  
   Yuerou Tang<sup>\*</sup>, <ins>Jacob Yim</ins><sup>\*</sup>, Jordan Schwartz, Madison Bohannan, Dana Benedicto, Charisse Liu, Armando Fox, Lisa Yan, and Narges Norouzi  
@@ -137,6 +141,6 @@ lead teaching assistant: Summer 2024
 teaching assistant: Spring 2023, Fall 2022, Summer 2022  
 course tutor: Spring 2022, Fall 2021
 
-<sup>last updated: 11/1/26 🍂</sup>
+<sup>last updated: 11/25/26 🍂</sup>
 
 <!-- <sup>Photo credit to Sami Chiang. The font is Redaction.</sup> -->
